@@ -6,8 +6,8 @@ import gsap from 'https://unpkg.com/gsap@3.11.2/dist/gsap.js';
 import starsTexture from '../img/stars.jpg';
 import earthTexture from '../img/earth.jpg';
 
-import { getLatLngObj } from "tle.js";
-import { getGroundTracks } from 'tle.js';
+//import { getLatLngObj } from "tle.js";
+//import { getGroundTracks } from 'tle.js';
 const info = document.querySelector('.info')
 
 

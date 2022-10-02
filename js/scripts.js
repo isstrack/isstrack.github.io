@@ -1,7 +1,7 @@
 import * as THREE from 'https://unpkg.com/three@0.145.0/build/three.js';
 import { OrbitControls } from 'https://unpkg.com/three@0.145.0/examples/jsm/controls/OrbitControls.js';
 import { GLTFLoader } from 'https://unpkg.com/three@0.145.0/examples/jsm/loaders/GLTFLoader.js'
-import gsap from 'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js';
+import gsap from 'https://unpkg.com/gsap@3.11.2/dist/gsap.js';
 
 import starsTexture from '../img/stars.jpg';
 import earthTexture from '../img/earth.jpg';

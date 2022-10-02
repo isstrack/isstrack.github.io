@@ -55,13 +55,14 @@ window.addEventListener('load', (event) => {
  function hide(){
   
  }
- 
+/* 
  window.addEventListener('DOMContentLoaded', (event) => {
   var back = document.querySelector(".back");
   back.addEventListener('click', function() {
     back.classList.add('hide');
   });
 });
+*/
 
 // reach the end alert
 // function atEnd() {
